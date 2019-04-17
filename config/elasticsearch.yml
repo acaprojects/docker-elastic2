@@ -1,4 +1,4 @@
-network.bind_host: [_local_,_site_]
+network.bind_host: [_site_,_local_]
 network.publish_host: _site_
 discovery.zen.ping.multicast.enabled: false
 
